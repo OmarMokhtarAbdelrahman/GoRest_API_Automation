@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+    <reporter-output>
+    </reporter-output>
+    <suite started-at="2025-07-21T05:39:27 EEST" name="Default suite" finished-at="2025-07-21T05:39:35 EEST" duration-ms="7687">
+        <groups>
+        </groups>
+        <test started-at="2025-07-21T05:39:27 EEST" name="Default test" finished-at="2025-07-21T05:39:35 EEST" duration-ms="7687">
+            <class name="Tests.Comments.CreateCommentValidTest">
+                <test-method signature="createUserTest()[pri:0, instance:Tests.Comments.CreateCommentValidTest@7c351808]" started-at="2025-07-21T05:39:27 EEST" name="createUserTest"
+                             finished-at="2025-07-21T05:39:30 EEST" duration-ms="2267" status="PASS">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- createUserTest -->
+                <test-method signature="createPostTest()[pri:0, instance:Tests.Comments.CreateCommentValidTest@7c351808]" started-at="2025-07-21T05:39:30 EEST" name="createPostTest"
+                             finished-at="2025-07-21T05:39:31 EEST" depends-on-methods="Tests.Comments.CreateCommentValidTest.createUserTest" duration-ms="860" status="PASS">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- createPostTest -->
+                <test-method signature="create1stCommentTest()[pri:0, instance:Tests.Comments.CreateCommentValidTest@7c351808]" started-at="2025-07-21T05:39:31 EEST" name="create1stCommentTest"
+                             finished-at="2025-07-21T05:39:32 EEST" depends-on-methods="Tests.Comments.CreateCommentValidTest.createPostTest" duration-ms="1411" status="PASS">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- create1stCommentTest -->
+                <test-method signature="create2ndCommentTest()[pri:0, instance:Tests.Comments.CreateCommentValidTest@7c351808]" started-at="2025-07-21T05:39:32 EEST" name="create2ndCommentTest"
+                             finished-at="2025-07-21T05:39:33 EEST" depends-on-methods="Tests.Comments.CreateCommentValidTest.createPostTest" duration-ms="860" status="PASS">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- create2ndCommentTest -->
+                <test-method signature="create3rdCommentTest()[pri:0, instance:Tests.Comments.CreateCommentValidTest@7c351808]" started-at="2025-07-21T05:39:33 EEST" name="create3rdCommentTest"
+                             finished-at="2025-07-21T05:39:33 EEST" depends-on-methods="Tests.Comments.CreateCommentValidTest.createPostTest" duration-ms="501" status="PASS">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- create3rdCommentTest -->
+                <test-method signature="getUserPostsTest()[pri:0, instance:Tests.Comments.CreateCommentValidTest@7c351808]" started-at="2025-07-21T05:39:33 EEST" name="getUserPostsTest"
+                             finished-at="2025-07-21T05:39:34 EEST" depends-on-methods="Tests.Comments.CreateCommentValidTest.createPostTest" duration-ms="807" status="PASS">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- getUserPostsTest -->
+                <test-method signature="getUserCommentsTest()[pri:0, instance:Tests.Comments.CreateCommentValidTest@7c351808]" started-at="2025-07-21T05:39:34 EEST" name="getUserCommentsTest"
+                             finished-at="2025-07-21T05:39:35 EEST" depends-on-methods="Tests.Comments.CreateCommentValidTest.create3rdCommentTest" duration-ms="452" status="PASS">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- getUserCommentsTest -->
+                <test-method signature="deleteUserTest()[pri:0, instance:Tests.Comments.CreateCommentValidTest@7c351808]" started-at="2025-07-21T05:39:35 EEST" name="deleteUserTest"
+                             finished-at="2025-07-21T05:39:35 EEST" depends-on-methods="Tests.Comments.CreateCommentValidTest.getUserPostsTest" duration-ms="476" status="PASS">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- deleteUserTest -->
+            </class> <!-- Tests.Comments.CreateCommentValidTest -->
+        </test> <!-- Default test -->
+    </suite> <!-- Default suite -->
+</testng-results>

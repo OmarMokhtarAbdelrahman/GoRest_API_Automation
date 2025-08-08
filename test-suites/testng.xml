@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test thread-count="5" name="Test">
+        <classes>
+            <class name="Tests.Posts.CreatePostValidTests"/>
+            <class name="Tests.Posts.CreatePostInvalidTests"/>
+            <class name="Tests.Users.CreateUserInvalidTests"/>
+            <class name="Tests.Users.CreateUserValidTests"/>
+            <class name="Tests.Comments.CreateCommentInvalidTests"/>
+            <class name="Tests.Comments.CreateCommentValidTests"/>
+            <class name="Tests.Todo.CreateTodoValidTests"/>
+            <class name="Tests.Todo.CreateTodoInvalidTests"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
