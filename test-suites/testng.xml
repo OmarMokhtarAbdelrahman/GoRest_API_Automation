@@ -3,14 +3,14 @@
 <suite name="Suite">
     <test thread-count="5" name="Test">
         <classes>
-            <class name="Tests.Posts.CreatePostValidTests"/>
-            <class name="Tests.Posts.CreatePostInvalidTests"/>
-            <class name="Tests.Users.CreateUserInvalidTests"/>
-            <class name="Tests.Users.CreateUserValidTests"/>
-            <class name="Tests.Comments.CreateCommentInvalidTests"/>
-            <class name="Tests.Comments.CreateCommentValidTests"/>
-            <class name="Tests.Todo.CreateTodoValidTests"/>
-            <class name="Tests.Todo.CreateTodoInvalidTests"/>
+            <class name="GoRestTests.Posts.CreatePostValidTests"/>
+            <class name="GoRestTests.Posts.CreatePostInvalidTests"/>
+            <class name="GoRestTests.Users.CreateUserInvalidTests"/>
+            <class name="GoRestTests.Users.CreateUserValidTests"/>
+            <class name="GoRestTests.Comments.CreateCommentInvalidTests"/>
+            <class name="GoRestTests.Comments.CreateCommentValidTests"/>
+            <class name="GoRestTests.Todo.CreateTodoValidTests"/>
+            <class name="GoRestTests.Todo.CreateTodoInvalidTests"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->

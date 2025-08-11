@@ -1,42 +1,69 @@
-2025-08-09 02:19:33.383 [main] INFO  Reusables.Reusables - Initializing Reusables class
-2025-08-09 02:19:33.385 [main] INFO  Reusables.Reusables - Base URI: https://gorest.co.in
-2025-08-09 02:19:33.385 [main] INFO  Reusables.Reusables - Request specifications configured with headers
-2025-08-09 02:19:33.536 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\eclipse-workspace\GoRest_API_Automation\testng.xml
+2025-08-11 21:44:22.835 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-11 21:44:22.844 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-11 21:44:22.844 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-11 21:44:22.914 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\welcome\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
 
-2025-08-09 02:19:50.586 [main] INFO  Tests.Users.CreateUserValidTests - Starting createUserTest
-2025-08-09 02:19:50.587 [main] INFO  Tests.Users.CreateUserValidTests - Creating user with name: Mark Robinson, email: markRob12345678@gmail.com, gender: male, status: active
-2025-08-09 02:19:51.298 [main] INFO  Tests.Users.CreateUserValidTests - User created successfully with ID: 8058339
-2025-08-09 02:19:51.320 [main] INFO  Tests.Users.CreateUserValidTests - Starting updateUserStatusPutTest for user ID: 8058339
-2025-08-09 02:19:51.320 [main] INFO  Tests.Users.CreateUserValidTests - Updating user with new name: Pablo Robinson, status: inactive
-2025-08-09 02:19:51.723 [main] INFO  Tests.Users.CreateUserValidTests - User updated successfully
-2025-08-09 02:19:51.728 [main] INFO  Tests.Users.CreateUserValidTests - Starting updateUserPatchTest for user ID: 8058339
-2025-08-09 02:19:51.730 [main] INFO  Tests.Users.CreateUserValidTests - Patching user name to: Mark Robinson
-2025-08-09 02:19:52.108 [main] INFO  Tests.Users.CreateUserValidTests - User patched successfully
-2025-08-09 02:19:52.114 [main] INFO  Tests.Users.CreateUserValidTests - Starting getUserTest for user ID: 8058339
-2025-08-09 02:19:52.465 [main] INFO  Tests.Users.CreateUserValidTests - User details retrieved successfully
-2025-08-09 02:19:52.469 [main] INFO  Tests.Users.CreateUserValidTests - Starting getAllUserTest with pagination
-2025-08-09 02:19:52.858 [main] INFO  Tests.Users.CreateUserValidTests - All users retrieved successfully
-2025-08-09 02:19:52.863 [main] INFO  Tests.Users.CreateUserValidTests - Starting deleteUserTest for user ID: 8058339
-2025-08-09 02:19:53.249 [main] INFO  Tests.Users.CreateUserValidTests - User deleted successfully
-2025-08-09 02:21:52.161 [main] INFO  Reusables.Reusables - Initializing Reusables class
-2025-08-09 02:21:52.343 [main] INFO  Reusables.Reusables - Base URI: https://gorest.co.in
-2025-08-09 02:21:52.344 [main] INFO  Reusables.Reusables - Request specifications configured with headers
-2025-08-09 02:21:52.524 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\eclipse-workspace\GoRest_API_Automation\testng.xml
+2025-08-11 21:46:54.494 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-11 21:46:54.496 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-11 21:46:54.496 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-11 21:46:54.595 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\GoRest_API_Automation\test-suites\SmokeTest.xml
 
-2025-08-09 02:22:05.561 [main] INFO  Tests.Users.CreateUserValidTests - Starting createUserTest
-2025-08-09 02:22:05.561 [main] INFO  Tests.Users.CreateUserValidTests - Creating user with name: Mark Robinson, email: markRob12345678@gmail.com, gender: male, status: active
-2025-08-09 02:22:05.939 [main] INFO  Tests.Users.CreateUserValidTests - User created successfully with ID: 8058347
-2025-08-09 02:22:05.945 [main] INFO  Tests.Users.CreateUserValidTests - Starting updateUserStatusPutTest for user ID: 8058347
-2025-08-09 02:22:05.945 [main] INFO  Tests.Users.CreateUserValidTests - Updating user with new name: Pablo Robinson, status: inactive
-2025-08-09 02:22:06.318 [main] INFO  Tests.Users.CreateUserValidTests - User updated successfully
-2025-08-09 02:22:06.322 [main] INFO  Tests.Users.CreateUserValidTests - Starting updateUserPatchTest for user ID: 8058347
-2025-08-09 02:22:06.324 [main] INFO  Tests.Users.CreateUserValidTests - Patching user name to: Mark Robinson
-2025-08-09 02:22:06.705 [main] INFO  Tests.Users.CreateUserValidTests - User patched successfully
-2025-08-09 02:22:06.710 [main] INFO  Tests.Users.CreateUserValidTests - Starting getUserTest for user ID: 8058347
-2025-08-09 02:22:07.085 [main] INFO  Tests.Users.CreateUserValidTests - User details retrieved successfully
-2025-08-09 02:22:07.094 [main] INFO  Tests.Users.CreateUserValidTests - Starting getAllUserTest with pagination
-2025-08-09 02:22:07.500 [main] INFO  Tests.Users.CreateUserValidTests - All users retrieved successfully
-2025-08-09 02:22:07.504 [main] INFO  Tests.Users.CreateUserValidTests - Starting deleteUserTest for user ID: 8058347
-2025-08-09 02:22:07.903 [main] INFO  Tests.Users.CreateUserValidTests - User deleted successfully
+2025-08-11 21:47:01.493 [main] INFO  G.Users.CreateUserValidTests - Starting createUserTest
+2025-08-11 21:47:01.493 [main] INFO  G.Users.CreateUserValidTests - Creating user with name: Mark Robinson, email: markRob12345678@gmail.com, gender: male, status: active
+2025-08-11 21:47:01.945 [main] INFO  G.Users.CreateUserValidTests - User created successfully with ID: 8063861
+2025-08-11 21:47:01.951 [main] INFO  G.Users.CreateUserValidTests - Starting updateUserStatusPutTest for user ID: 8063861
+2025-08-11 21:47:01.951 [main] INFO  G.Users.CreateUserValidTests - Updating user with new name: Pablo Robinson, status: inactive
+2025-08-11 21:47:02.377 [main] INFO  G.Users.CreateUserValidTests - User updated successfully
+2025-08-11 21:47:02.381 [main] INFO  G.Users.CreateUserValidTests - Starting updateUserPatchTest for user ID: 8063861
+2025-08-11 21:47:02.383 [main] INFO  G.Users.CreateUserValidTests - Patching user name to: Mark Robinson
+2025-08-11 21:47:03.185 [main] INFO  G.Users.CreateUserValidTests - User patched successfully
+2025-08-11 21:47:03.191 [main] INFO  G.Users.CreateUserValidTests - Starting getUserTest for user ID: 8063861
+2025-08-11 21:47:03.889 [main] INFO  G.Users.CreateUserValidTests - User details retrieved successfully
+2025-08-11 21:47:03.892 [main] INFO  G.Users.CreateUserValidTests - Starting getAllUserTest with pagination
+2025-08-11 21:47:04.321 [main] INFO  G.Users.CreateUserValidTests - All users retrieved successfully
+2025-08-11 21:47:04.325 [main] INFO  G.Users.CreateUserValidTests - Starting deleteUserTest for user ID: 8063861
+2025-08-11 21:47:04.783 [main] INFO  G.Users.CreateUserValidTests - User deleted successfully
+2025-08-11 21:48:58.095 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-11 21:48:58.097 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-11 21:48:58.097 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-11 21:48:58.239 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\GoRest_API_Automation\test-suites\testng.xml
+
+2025-08-11 21:49:10.452 [main] INFO  G.Users.CreateUserValidTests - Starting createUserTest
+2025-08-11 21:49:10.453 [main] INFO  G.Users.CreateUserValidTests - Creating user with name: Mark Robinson, email: markRob12345678@gmail.com, gender: male, status: active
+2025-08-11 21:49:10.874 [main] INFO  G.Users.CreateUserValidTests - User created successfully with ID: 8063868
+2025-08-11 21:49:10.880 [main] INFO  G.Users.CreateUserValidTests - Starting updateUserStatusPutTest for user ID: 8063868
+2025-08-11 21:49:10.880 [main] INFO  G.Users.CreateUserValidTests - Updating user with new name: Pablo Robinson, status: inactive
+2025-08-11 21:49:11.276 [main] INFO  G.Users.CreateUserValidTests - User updated successfully
+2025-08-11 21:49:11.279 [main] INFO  G.Users.CreateUserValidTests - Starting updateUserPatchTest for user ID: 8063868
+2025-08-11 21:49:11.280 [main] INFO  G.Users.CreateUserValidTests - Patching user name to: Mark Robinson
+2025-08-11 21:49:11.678 [main] INFO  G.Users.CreateUserValidTests - User patched successfully
+2025-08-11 21:49:11.681 [main] INFO  G.Users.CreateUserValidTests - Starting getUserTest for user ID: 8063868
+2025-08-11 21:49:12.440 [main] INFO  G.Users.CreateUserValidTests - User details retrieved successfully
+2025-08-11 21:49:12.447 [main] INFO  G.Users.CreateUserValidTests - Starting getAllUserTest with pagination
+2025-08-11 21:49:13.241 [main] INFO  G.Users.CreateUserValidTests - All users retrieved successfully
+2025-08-11 21:49:13.250 [main] INFO  G.Users.CreateUserValidTests - Starting deleteUserTest for user ID: 8063868
+2025-08-11 21:49:13.685 [main] INFO  G.Users.CreateUserValidTests - User deleted successfully
+2025-08-11 21:51:53.066 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-11 21:51:53.091 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-11 21:51:53.092 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-11 21:51:53.408 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\GoRest_API_Automation\test-suites\testng.xml
+
+2025-08-11 21:52:06.887 [main] INFO  G.Users.CreateUserValidTests - Starting createUserTest
+2025-08-11 21:52:06.888 [main] INFO  G.Users.CreateUserValidTests - Creating user with name: Mark Robinson, email: markRob12345678@gmail.com, gender: male, status: active
+2025-08-11 21:52:07.341 [main] INFO  G.Users.CreateUserValidTests - User created successfully with ID: 8063880
+2025-08-11 21:52:07.352 [main] INFO  G.Users.CreateUserValidTests - Starting updateUserStatusPutTest for user ID: 8063880
+2025-08-11 21:52:07.353 [main] INFO  G.Users.CreateUserValidTests - Updating user with new name: Pablo Robinson, status: inactive
+2025-08-11 21:52:07.827 [main] INFO  G.Users.CreateUserValidTests - User updated successfully
+2025-08-11 21:52:07.833 [main] INFO  G.Users.CreateUserValidTests - Starting updateUserPatchTest for user ID: 8063880
+2025-08-11 21:52:07.836 [main] INFO  G.Users.CreateUserValidTests - Patching user name to: Mark Robinson
+2025-08-11 21:52:08.299 [main] INFO  G.Users.CreateUserValidTests - User patched successfully
+2025-08-11 21:52:08.305 [main] INFO  G.Users.CreateUserValidTests - Starting getUserTest for user ID: 8063880
+2025-08-11 21:52:08.706 [main] INFO  G.Users.CreateUserValidTests - User details retrieved successfully
+2025-08-11 21:52:08.712 [main] INFO  G.Users.CreateUserValidTests - Starting getAllUserTest with pagination
+2025-08-11 21:52:09.196 [main] INFO  G.Users.CreateUserValidTests - All users retrieved successfully
+2025-08-11 21:52:09.208 [main] INFO  G.Users.CreateUserValidTests - Starting deleteUserTest for user ID: 8063880
+2025-08-11 21:52:09.674 [main] INFO  G.Users.CreateUserValidTests - User deleted successfully

@@ -3,10 +3,10 @@
 <suite name="Suite">
     <test thread-count="5" name="Test">
         <classes>
-            <class name="Tests.Posts.CreatePostInvalidTests"/>
-            <class name="Tests.Users.CreateUserInvalidTests"/>
-            <class name="Tests.Comments.CreateCommentInvalidTests"/>
-            <class name="Tests.Todo.CreateTodoInvalidTests"/>
+            <class name="GoRestTests.Posts.CreatePostInvalidTests"/>
+            <class name="GoRestTests.Users.CreateUserInvalidTests"/>
+            <class name="GoRestTests.Comments.CreateCommentInvalidTests"/>
+            <class name="GoRestTests.Todo.CreateTodoInvalidTests"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
