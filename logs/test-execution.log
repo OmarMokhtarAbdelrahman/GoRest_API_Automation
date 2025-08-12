@@ -67,3 +67,32 @@
 2025-08-11 21:52:09.196 [main] INFO  G.Users.CreateUserValidTests - All users retrieved successfully
 2025-08-11 21:52:09.208 [main] INFO  G.Users.CreateUserValidTests - Starting deleteUserTest for user ID: 8063880
 2025-08-11 21:52:09.674 [main] INFO  G.Users.CreateUserValidTests - User deleted successfully
+2025-08-12 16:47:47.871 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-12 16:47:47.874 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-12 16:47:47.874 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-12 16:47:48.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omar.Mokhtar\IdeaProjects\GoRest_API_Automation\test-suites\ErrorValidations.xml
+
+2025-08-12 17:22:41.069 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-12 17:22:41.071 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-12 17:22:41.071 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-12 17:22:41.131 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omar.Mokhtar\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2025-08-12 17:22:41.211 [main] INFO  GoRestTests.E2E.FullTest - Starting createUserTest
+2025-08-12 17:22:41.212 [main] INFO  GoRestTests.E2E.FullTest - Creating user with name: Mark Robinson, email: markRob12345678@gmail.com, gender: male, status: active
+2025-08-12 17:22:43.382 [main] INFO  GoRestTests.E2E.FullTest - User created successfully with ID: 8064985
+2025-08-12 17:22:43.429 [main] INFO  GoRestTests.E2E.FullTest - Starting createPostTest
+2025-08-12 17:22:44.460 [main] INFO  GoRestTests.E2E.FullTest - Post created successfully with ID: 230761
+2025-08-12 17:29:18.313 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-12 17:29:18.314 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-12 17:29:18.315 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-12 17:29:18.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omar.Mokhtar\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2025-08-12 17:29:18.471 [main] INFO  GoRestTests.E2E.FullTest - Starting createUserTest
+2025-08-12 17:29:18.471 [main] INFO  GoRestTests.E2E.FullTest - Creating user with name: Mark Robinson, email: markRob12345678@gmail.com, gender: male, status: active
+2025-08-12 17:29:20.567 [main] INFO  GoRestTests.E2E.FullTest - User created successfully with ID: 8064992
+2025-08-12 17:29:20.629 [main] INFO  GoRestTests.E2E.FullTest - Starting createPostTest
+2025-08-12 17:29:21.506 [main] INFO  GoRestTests.E2E.FullTest - Post created successfully with ID: 230762
+2025-08-12 17:29:23.406 [main] INFO  GoRestTests.E2E.FullTest - Todo created successfully with ID: 87471
