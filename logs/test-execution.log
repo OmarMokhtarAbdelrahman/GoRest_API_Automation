@@ -96,3 +96,75 @@
 2025-08-12 17:29:20.629 [main] INFO  GoRestTests.E2E.FullTest - Starting createPostTest
 2025-08-12 17:29:21.506 [main] INFO  GoRestTests.E2E.FullTest - Post created successfully with ID: 230762
 2025-08-12 17:29:23.406 [main] INFO  GoRestTests.E2E.FullTest - Todo created successfully with ID: 87471
+2025-08-13 14:28:42.280 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-13 14:28:42.282 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-13 14:28:42.282 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-13 14:30:18.464 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-13 14:30:18.466 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-13 14:30:18.467 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-13 14:30:18.574 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\welcome\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-08-13 14:30:18.701 [main] INFO  GoRestTests.E2E.FullTest - Starting createUserTest
+2025-08-13 14:30:18.703 [main] INFO  GoRestTests.E2E.FullTest - Creating user with name: Mark Robinson, email: markRob12345678@gmail.com, gender: male, status: active
+2025-08-13 14:30:21.379 [main] INFO  GoRestTests.E2E.FullTest - User created successfully with ID: 8066936
+2025-08-13 14:32:24.009 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-13 14:32:24.012 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-13 14:32:24.012 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-13 14:33:01.179 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-13 14:33:01.181 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-13 14:33:01.181 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-13 14:33:01.281 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\welcome\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-08-13 14:33:01.431 [main] INFO  GoRestTests.E2E.FullTest - Starting createUserTest
+2025-08-13 14:33:01.433 [main] INFO  GoRestTests.E2E.FullTest - Creating user with name: Mark Robinson, email: markRob12345678@gmail.com, gender: male, status: active
+2025-08-13 14:33:03.992 [main] INFO  GoRestTests.E2E.FullTest - User created successfully with ID: 8066945
+2025-08-13 14:33:04.046 [main] INFO  GoRestTests.E2E.FullTest - Starting createPostTest
+2025-08-13 14:33:04.523 [main] INFO  GoRestTests.E2E.FullTest - Post created successfully with ID: 230942
+2025-08-13 14:33:06.499 [main] INFO  GoRestTests.E2E.FullTest - Todo created successfully with ID: 87526
+2025-08-13 14:43:11.624 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-13 14:43:11.626 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-13 14:43:11.627 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-13 14:43:11.741 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\welcome\Downloads\DemoTestAutomationProject-master\GoRest_API_Automation\test-suites\E2E.xml
+
+2025-08-13 14:43:11.922 [main] INFO  GoRestTests.E2E.FullTest - Starting createUserTest
+2025-08-13 14:43:11.924 [main] INFO  GoRestTests.E2E.FullTest - Creating user with name: Mark Robinson, email: markRob12345678@gmail.com, gender: male, status: active
+2025-08-13 14:43:14.797 [main] INFO  GoRestTests.E2E.FullTest - User created successfully with ID: 8066954
+2025-08-13 14:43:14.868 [main] INFO  GoRestTests.E2E.FullTest - Starting createPostTest
+2025-08-13 14:43:15.669 [main] INFO  GoRestTests.E2E.FullTest - Post created successfully with ID: 230943
+2025-08-13 14:43:17.973 [main] INFO  GoRestTests.E2E.FullTest - Todo created successfully with ID: 87527
+2025-08-13 14:47:03.566 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-13 14:47:03.569 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-13 14:47:03.569 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-13 14:47:03.738 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\welcome\Downloads\DemoTestAutomationProject-master\GoRest_API_Automation\test-suites\testng.xml
+
+2025-08-13 14:47:18.809 [main] INFO  G.Users.CreateUserValidTests - Starting createUserTest
+2025-08-13 14:47:18.810 [main] INFO  G.Users.CreateUserValidTests - Creating user with name: Mark Robinson, email: markRob12345678@gmail.com, gender: male, status: active
+2025-08-13 14:47:19.316 [main] INFO  G.Users.CreateUserValidTests - User created successfully with ID: 8066961
+2025-08-13 14:47:19.324 [main] INFO  G.Users.CreateUserValidTests - Starting updateUserStatusPutTest for user ID: 8066961
+2025-08-13 14:47:19.325 [main] INFO  G.Users.CreateUserValidTests - Updating user with new name: Pablo Robinson, status: inactive
+2025-08-13 14:47:19.741 [main] INFO  G.Users.CreateUserValidTests - User updated successfully
+2025-08-13 14:47:19.744 [main] INFO  G.Users.CreateUserValidTests - Starting updateUserPatchTest for user ID: 8066961
+2025-08-13 14:47:19.749 [main] INFO  G.Users.CreateUserValidTests - Patching user name to: Mark Robinson
+2025-08-13 14:47:20.169 [main] INFO  G.Users.CreateUserValidTests - User patched successfully
+2025-08-13 14:47:20.175 [main] INFO  G.Users.CreateUserValidTests - Starting getUserTest for user ID: 8066961
+2025-08-13 14:47:20.552 [main] INFO  G.Users.CreateUserValidTests - User details retrieved successfully
+2025-08-13 14:47:20.561 [main] INFO  G.Users.CreateUserValidTests - Starting getAllUserTest with pagination
+2025-08-13 14:47:21.315 [main] INFO  G.Users.CreateUserValidTests - All users retrieved successfully
+2025-08-13 14:47:21.324 [main] INFO  G.Users.CreateUserValidTests - Starting deleteUserTest for user ID: 8066961
+2025-08-13 14:47:22.117 [main] INFO  G.Users.CreateUserValidTests - User deleted successfully
+2025-08-13 15:18:05.061 [main] INFO  GoRestMain.Reusables.Reusables - Initializing Reusables class
+2025-08-13 15:18:05.063 [main] INFO  GoRestMain.Reusables.Reusables - Base URI: https://gorest.co.in
+2025-08-13 15:18:05.063 [main] INFO  GoRestMain.Reusables.Reusables - Request specifications configured with headers
+2025-08-13 15:18:05.139 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\welcome\Downloads\DemoTestAutomationProject-master\GoRest_API_Automation\test-suites\E2E.xml
+
+2025-08-13 15:18:05.249 [main] INFO  GoRestTests.E2E.FullTest - Starting createUserTest
+2025-08-13 15:18:05.251 [main] INFO  GoRestTests.E2E.FullTest - Creating user with name: Mark Robinson, email: markRob12345678@gmail.com, gender: male, status: active
+2025-08-13 15:18:07.966 [main] INFO  GoRestTests.E2E.FullTest - User created successfully with ID: 8066996
+2025-08-13 15:18:08.023 [main] INFO  GoRestTests.E2E.FullTest - Starting createPostTest
+2025-08-13 15:18:08.831 [main] INFO  GoRestTests.E2E.FullTest - Post created successfully with ID: 230948
+2025-08-13 15:18:10.708 [main] INFO  GoRestTests.E2E.FullTest - Todo created successfully with ID: 87531

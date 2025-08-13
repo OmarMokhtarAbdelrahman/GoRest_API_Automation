@@ -1,6 +1,5 @@
 package GoRestTests.E2E;
 
-import GoRestMain.POJO.Deserialization.Comment.CreateCommentResponse;
 import GoRestMain.POJO.Deserialization.Posts.CreatePostResponse;
 import GoRestMain.POJO.Deserialization.Todo.CreateTodoResponse;
 import GoRestMain.POJO.Deserialization.Users.CreateUserResponse;
@@ -215,9 +214,9 @@ public class FullTest extends Reusables{
                 .all()
                 .assertThat()
                 .statusCode(200)
-                .body("post_id", hasItems(postId, postId, postId))
-                .body("name", hasItems(name, name, name))
-                .body("email", hasItems(email, email, email))
+                .body("post_id", hasItems(postId))
+                .body("name", hasItems(name))
+                .body("email", hasItems(email))
                 .body(containsString("body"))
                 .body(containsString("id"));
     }
